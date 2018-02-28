@@ -8,11 +8,11 @@ subtitle:
 description: blog
 author: babytutu
 language: zh-Hans
-timezone: 
+timezone:
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: https://babytutu.github.io
+url: http://babytutu.coding.me
 root: /
 permalink: :year-:month-:day-:title/
 permalink_defaults:
@@ -69,5 +69,6 @@ theme: next
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
   type: git
-  repo: https://github.com/babytutu/babytutu.github.com.git
-  branch: master
+  repo:
+    github: git@github.com:babytutu/babytutu.github.com.git,master
+    coding: git@git.coding.net:babytutu/babytutu.git,master

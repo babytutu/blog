@@ -1,5 +1,5 @@
 ---
-title: Mac小助手Alfred
+title: Mac效率神器Alfred
 date: 2017-04-15 12:37:23
 tags:
     - babytutu
@@ -39,7 +39,7 @@ ipconfig getifaddr en1
 
 > 相关下载：[LocalPort](http://www.packal.org/workflow/localport)
 
-### 杀死死不了的端口 
+### 杀死死不了的端口
 
 > 原理还是找到被占用的端口然后kill
 
