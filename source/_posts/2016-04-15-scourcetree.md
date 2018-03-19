@@ -1,8 +1,11 @@
 ---
 title: scourcetree
 date: 2016-04-15 22:07:14
-tags: [SourceTree,git]
-categories: [tool]
+tags:
+  - SourceTree
+  - git
+categories:
+  - soft
 ---
 
 ## [SourceTree](https://www.sourcetreeapp.com/) 通用环境免费Git客户端[忘记谁推荐的了]

@@ -2,7 +2,9 @@
 title: reset form
 date: 2016-04-23 00:45:58
 tags:
-categories: [code]
+  - css
+categories:
+  - css
 ---
 ## reset输入框
 ```css

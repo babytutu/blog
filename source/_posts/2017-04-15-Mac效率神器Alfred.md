@@ -2,8 +2,7 @@
 title: Mac效率神器Alfred
 date: 2017-04-15 12:37:23
 tags:
-    - babytutu
-    - mac
+    - soft
 ---
 
 ## 懒人进击版

@@ -2,7 +2,9 @@
 title: localStorage
 date: 2016-05-12 00:43:31
 tags:
-categories: [code]
+  - safair
+categories:
+  - code
 ---
 
 ## safair localStorage 踩坑

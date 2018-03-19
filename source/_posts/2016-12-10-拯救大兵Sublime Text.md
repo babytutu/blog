@@ -2,7 +2,6 @@
 title: 拯救大兵Sublime Text
 date: 2016-12-10 02:06:18
 tags:
-  - babytutu
   - Sublime
 ---
 ### WebStorm vs Sublime
@@ -59,7 +58,7 @@ tags:
 - SublimeLinter
 - SublimeLinter-contrib-eslint
 
-#### Markdown专用 
+#### Markdown专用
 - Markdown Preview[浏览器中预览]
 - MarkdownHighlighting
 
