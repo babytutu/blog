@@ -9,6 +9,7 @@ categories:
 
 ## gulp
 - Automate and enhance your workflow
+- [a simple gulp demo](https://github.com/babytutu/gulp-demo)
 
 <!--more-->
 
