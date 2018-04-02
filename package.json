@@ -6,8 +6,8 @@
     "version": "3.6.0"
   },
   "scripts": {
-    "start": "hexo server -p 3333",
-    "pub": "hexo d -g"
+    "start": "hexo s -p 3333",
+    "pub": "hexo clean && hexo d -g"
   },
   "dependencies": {
     "hexo": "^3.6.0",

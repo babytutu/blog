@@ -72,3 +72,26 @@ deploy:
   repo:
     github: git@github.com:babytutu/babytutu.github.com.git,master
     coding: git@git.coding.net:babytutu/babytutu.git,master
+
+
+theme_config:
+  scheme: Mist
+
+  menu:
+    home: / || home
+    tags: /tags/ || tags
+    categories: /categories/ || th
+    archives: /archives/ || archive
+
+
+  custom_file_path:
+    variables: source/_data/variables.styl
+
+  footer:
+    powered: false
+
+    theme:
+      # Theme & scheme info link (Theme - NexT.scheme).
+      enable: false
+      # Version info of NexT after scheme info (vX.X.X).
+      version: false
