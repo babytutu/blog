@@ -77,6 +77,12 @@ deploy:
 theme_config:
   scheme: Mist
 
+  favicon:
+    small: /images/avatar.png
+    medium: /images/avatar.png
+    apple_touch_icon: /images/avatar.png
+    safari_pinned_tab: /images/avatar.png
+
   menu:
     home: / || home
     tags: /tags/ || tags
