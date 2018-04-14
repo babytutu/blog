@@ -101,3 +101,9 @@ theme_config:
       enable: false
       # Version info of NexT after scheme info (vX.X.X).
       version: false
+
+  social:
+    GitHub: https://github.com/babytutu || github
+    NPM: https://www.npmjs.com/~babytutu || coffee
+
+  avatar: /images/avatar.png

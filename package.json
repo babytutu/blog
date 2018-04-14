@@ -7,7 +7,7 @@
   },
   "scripts": {
     "start": "hexo s -p 3333",
-    "pub": "hexo clean && hexo d -g"
+    "pub": "hexo d -g"
   },
   "dependencies": {
     "hexo": "^3.7.1",
