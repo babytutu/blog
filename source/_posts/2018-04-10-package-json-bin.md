@@ -212,8 +212,7 @@ if (args.length) {
 
 ```
 
-
-## 在其他项目中使用
+### 在其他项目中使用
 请配合[webpack-demo](https://github.com/babytutu/webpack-demo)体验
 
 修改`package.json`中的`scripts`
