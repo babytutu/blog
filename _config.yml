@@ -71,7 +71,6 @@ deploy:
   type: git
   repo:
     github: git@github.com:babytutu/babytutu.github.com.git,master
-    coding: git@git.coding.net:babytutu/babytutu.git,master
 
 
 theme_config:
