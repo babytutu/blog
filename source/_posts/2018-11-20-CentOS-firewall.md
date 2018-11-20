@@ -26,6 +26,8 @@ firewall-cmd --reload
 ```
 再次查看所有打开的端口已确认效果
 
+<!--more-->
+
 ## 所有相关资料
 
 ### firewalld的基本使用
